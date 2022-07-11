@@ -183,7 +183,7 @@ void disp(int a[4][4])
 		}
 		cout<<"|"<<endl;
 	}
-	cout<<"\t\t\t\t-----------------\n";
+	cout<<"\t\t\t\t------------------\n";
 }
 
 int check(int tmp[4][4],int a[4][4])
